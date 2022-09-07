@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Lekseel
+        </title>
+        <h1 style="background-color:skyblue">
+            Hello World!!!<BR>
+            Olalekan Shogbaike
+        </h1>
+        <hr>
+        <section>        
+            <UL>
+                <li><a href="html.html">HTML</a></li>
+                <li><a href="css.html">CSS</a></li>
+                <li><a href="javascript.html">JAVASCRIPT</a></li>
+                <li><a href="pyton.html">PYTON</a></li>
+            </UL>
+            <section>
+            <nav>
+                <h4 style="text-align:right;"><a href="Service">Service</a>|
+                <a href="about us">About Us</a>|
+                <a href="Contact">Contact</a>|
+                <a href="login">Login</a></h4> 
+            </nav>
+            </section>
+        <hr>
+    </head>
+    <body>
